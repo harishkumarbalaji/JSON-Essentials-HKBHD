@@ -1,3 +1,6 @@
+// Checkout my channel https://youtube.com/c/HKBHD to view more cool videos and projects
+
+// Exmple JSON used in this code to create & parse
 /*
 {
 "menu": {
@@ -12,7 +15,7 @@
 */  
 
 
-#include <ArduinoJson.h>
+#include <ArduinoJson.h> // ArduinoJSON v6
 String json;
 
 void setup() {
